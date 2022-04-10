@@ -19,4 +19,4 @@ users = deta.Base("users")
 videos = deta.Base("videos")
 thumbnails = deta.Drive("thumbnails")
 
-thumbnails.put('/thumbnails/test_thumbnail_1.jpg', path='./thumb_test')
+thumbnails.put('test_thumbnail_1.jpg', path='./thumb_test')
