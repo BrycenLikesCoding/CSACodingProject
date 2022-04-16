@@ -5,8 +5,7 @@ from deta import Deta
 global detaInformation
 
 detaInformation = {
-    'key': 'b08vglli_aRZbmhfWKATs54djaSHiZrFu2cFqJn19',
-    'id': 'b08vglli'
+    'key': 'b08vglli_XfZZkGogKbBZvzaGmr4xEAMqHTXLnrLA'
 }
 
 def initDeta():
