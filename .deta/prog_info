@@ -1,0 +1,1 @@
+{"id":"d5cc9fe2-3f74-4cdf-9296-7eb923832437","space":20775,"runtime":"python3.9","name":"not_youtube","path":"ez97jc","project":"b08vglli","account":"144798365827","region":"us-east-1","deps":["deta","fastapi"],"envs":null,"public":true,"log_level":"debug","cron":""}
