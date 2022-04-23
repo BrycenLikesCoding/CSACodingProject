@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<HTML>
+	<HEAD>
+	    <title>
+	        make good content please
+	    </title>
+	    <link href="https://turbine1k.repl.co/cdn/burning.css" rel='stylesheet'>
+	    <style>
+	        html {
+	            padding:5px;
+	        }
+	    </style>
+	</HEAD>
+	<BODY>
+		<form action="/videos/upload" enctype="multipart/form-data" method="post">
+		    <h1>
+		        upload a video
+		    </h1>
+		    <input name="title" placeHolder="Video Title"><br>
+		    <input name="creator" placeHolder='Video Author'><br>
+		    <label>Video</label>
+		    <input name="video_file" value='Video File' type='file' accept=".mp4"><br>
+		    <label>Thumbnail</label>
+		    <input name="thumbnail" value='Thumbnail' type='file' accept=".png"><br>
+		    <input value="Upload" type="submit">
+		</form>
+	</BODY>
+</HTML>
